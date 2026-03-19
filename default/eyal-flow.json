@@ -55,7 +55,7 @@
     "inputPorts" : [ ],
     "labels" : [ ],
     "maxConcurrentTasks" : 1,
-    "name" : "auto-deploy-pipeline-v7484",
+    "name" : "eyal-flow",
     "outputPorts" : [ ],
     "position" : {
       "x" : 0.0,
@@ -85,7 +85,7 @@
         "y" : 56.0
       },
       "properties" : {
-        "Log Message" : "hii",
+        "Log Message" : "byy",
         "Log Level" : "info"
       },
       "propertyDescriptors" : {
@@ -221,6 +221,6 @@
   "snapshotMetadata" : {
     "author" : "admin",
     "flowIdentifier" : "eyal-flow",
-    "timestamp" : 1773953680998
+    "timestamp" : 1773958129356
   }
 }
