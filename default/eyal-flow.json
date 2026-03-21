@@ -204,7 +204,7 @@
         "y" : 56.0
       },
       "properties" : {
-        "Log Message" : "byy",
+        "Log Message" : "aaaaaa",
         "Log Level" : "info"
       },
       "propertyDescriptors" : {
@@ -411,6 +411,6 @@
   "snapshotMetadata" : {
     "author" : "admin",
     "flowIdentifier" : "eyal-flow",
-    "timestamp" : 1774104535094
+    "timestamp" : 1774104718135
   }
 }
